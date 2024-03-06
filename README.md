@@ -9,6 +9,9 @@ After making the necessary changes, I realized that my page was not deployable b
 ### Dead Links
 The Search Engine Optimization link was not navigating to the correct part of the page due to a dead link. I added an ID to the appropriate part of the page to fix this issue.
 
+### Title
+I added a title to the webpage.
+
 ### Semantic HTML Elements
 The Html was over-reliant on using div with class descriptors. I changed appropriate divs to nav, section, aside, and footer.
 
